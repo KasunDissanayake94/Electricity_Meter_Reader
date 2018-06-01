@@ -22,4 +22,8 @@ Assumptions :
 4. You cannot give lower month reading for this month than previous month.
 5 .Always use integer numbers for the calculations.
 
-<image src="">
+<br>
+<p float="left">
+  <img src="https://github.com/KasunDissanayake94/PlusChat-App/blob/master/Screenshot_2018-05-29-09-37-32%5B1%5D.png" width="1000" />
+
+</p>
