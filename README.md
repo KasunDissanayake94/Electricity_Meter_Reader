@@ -1,6 +1,6 @@
 This is a read me file related to meter reading
 ================================================
-1. When the system is run for the first time it asks for the last month meter reading and last month payment 
+1. When the system is runing for the first time it asks for the last month meter reading and last month payment 
 2. You have to type meter reading and last month payment
 3. Next you have to chose perticular function to run. Ex: Press 1 for the function 1
 You just need to type the function number on the command line
