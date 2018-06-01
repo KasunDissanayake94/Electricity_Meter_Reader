@@ -24,6 +24,6 @@ Assumptions :
 
 <br>
 <p float="left">
-  <img src="https://github.com/KasunDissanayake94/PlusChat-App/blob/master/Screenshot_2018-05-29-09-37-32%5B1%5D.png" width="1000" />
+  <img src="https://github.com/KasunDissanayake94/Electricity_Meter_Reader/blob/master/Console.JPG" width="1000" />
 
 </p>
