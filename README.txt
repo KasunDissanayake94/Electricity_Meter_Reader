@@ -22,3 +22,4 @@ Assumptions :
 4. You cannot give lower month reading for this month than previous month.
 5 .Always use integer numbers for the calculations.
 
+<image src="">
