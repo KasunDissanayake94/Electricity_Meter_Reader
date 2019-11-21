@@ -1,4 +1,4 @@
-This is a file related meter reading
+Meter Reading Instructions
 ================================================
 1. When the system is runing for the first time it asks for the last month meter reading and last month payment 
 2. You have to type meter reading and last month payment
